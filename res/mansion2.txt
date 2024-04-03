@@ -1,0 +1,52 @@
+30 27 Doctor Renu's Mansion
+5 Renu
+Rocky
+27
+ 6 10 17 13 office
+18 24 21 27 Workshop
+ 0  0  2  2 Fitting room
+ 1  5  3  9 Sewing room
+22 14 30 21 Water park
+18  1 24  4 Roller skating rink
+ 0 14  7 17 Library
+12 19 21 23 Kitchen
+ 4  3 11  9 Movie theatre
+12 14 21 18 Living room
+ 0 24  7 27 Craft room
+19  5 21  9 Maid room
+ 3 18  7 23 Gym
+22  5 27  9 Observatory
+ 8 14 11 23 Master bedroom
+26 22 30 27 Fencing room
+12  5 18  9 Tennis court
+ 8 24 13 27 Laundry
+12  0 17  4 Horse stables
+18 10 24 13 VR Room
+ 0 10  5 13 Martial arts room
+14 24 17 27 Storage
+25 10 30 13 Climbing wall room
+ 0 18  2 23 Archery
+22 22 25 27 Helipad
+ 3  0 11  2 Ice rink
+25  0 30  4 Basketball court
+20
+8 3 Crepe Pan
+4 2 Letter Opener
+12 2 Shoe Horn
+2 3 Sharp Knife
+0 3 Revolver
+15 3 Civil War Cannon
+2 4 Chain Saw
+16 2 Broom Stick
+1 2 Billiard Cue
+19 2 Rat Poison
+6 2 Trowel
+2 4 Big Red Hammer
+6 2 Pinking Shears
+18 3 Duck Decoy
+13 2 Bad Cream
+18 2 Monkey Hand
+11 2 Tight Hat
+19 2 Piece of Rope
+9 3 Silken Cord
+7 2 Loud Noise
